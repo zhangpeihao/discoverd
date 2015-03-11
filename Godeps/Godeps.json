@@ -1,0 +1,26 @@
+{
+	"ImportPath": "github.com/zhangpeihao/discoverd",
+	"GoVersion": "go1.4",
+	"Deps": [
+		{
+			"ImportPath": "github.com/coreos/etcd/error",
+			"Comment": "v2.0.1",
+			"Rev": "fe1d9565c2619f7633d21d14c48588700edeed4d"
+		},
+		{
+			"ImportPath": "github.com/coreos/etcd/etcdserver/etcdhttp/httptypes",
+			"Comment": "v2.0.1",
+			"Rev": "fe1d9565c2619f7633d21d14c48588700edeed4d"
+		},
+		{
+			"ImportPath": "github.com/coreos/etcd/pkg/types",
+			"Comment": "v2.0.1",
+			"Rev": "fe1d9565c2619f7633d21d14c48588700edeed4d"
+		},
+		{
+			"ImportPath": "github.com/coreos/go-etcd/etcd",
+			"Comment": "v0.4.6-6-g4734e7a",
+			"Rev": "4734e7aca379f0d7fcdf04fbb2101696a4b45ce8"
+		}
+	]
+}
